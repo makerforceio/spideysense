@@ -1,5 +1,5 @@
 # spideysense
-![On the head](images/overview.jpg "On the head")
+<img src="https://raw.githubusercontent.com/solderneer/spideysense/master/images/overview.jpg" height="400" />
 
 ## Inspiration
 Currently, visually impaired people use a [white cane](https://en.wikipedia.org/wiki/White_cane) to scan their surroundings and identify obstacles in their way. The white colour also serves as a universal identifier for others around them. However, we did not like that a cane completely occupies one of the user's hands. If we can free up this hand, a visually impaired person can do so much more, like hold groceries or their child's hand as they walk. 
